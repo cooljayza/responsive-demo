@@ -1,0 +1,1 @@
+console.warn("WS file is public");
