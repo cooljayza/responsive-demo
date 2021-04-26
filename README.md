@@ -1,4 +1,4 @@
-# Welcome to eat-easy ��
+# Welcome to Phone Book App ��
 ​
 This is a simple phone book application.
 ​
