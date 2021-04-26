@@ -135,11 +135,8 @@ A list of infrastructure requirements
 ​
 A list of all services used in this project.
 ​
-| Service Name | Owner/Admin    | Service Details                                                                                  |
-| ------------ | -------------- | ------------------------------------------------------------------------------------------------ |
-| Firebase     | wilson.cardoso@eblocks.co.za | Details firebase deployments                                                       |
-| AWS          | wilson.cardoso@eblocks.co.za | Details AWS deployments                                                            |
-|              |                |                                                                                                  |
+
+
 ​
 ## Contributing
 ​
@@ -155,7 +152,7 @@ A running changelog can be found here: [CHANGELOG.md](CHANGELOG.md)
 ​
 ## Authors
 ​
-- **Wilson Cardoso** <wilson.cardoso@eblocks.co.za>
+- **Jacob Khoza** <jacob.khoza@eblocks.co.za>
 ​
 ## Licenses
 ​
