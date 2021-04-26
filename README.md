@@ -180,5 +180,5 @@ List any common errors and their solutions
 ​
 | Version | Author                       | Date       |
 | ------- | ---------------------------- | ---------- |
-| 0.0.1   | Wilson Cardoso <wilson.cardoso@eblocks.co.za> | 15/01/2021 |
+| 0.0.1   | Jacob Khoza <jacob.khoza@eblocks.co.za> | 15/01/2021 |
 ​
